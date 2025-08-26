@@ -9,25 +9,13 @@
    <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
 </h1>
 
-<div align="center">
-  <a href="https://github.com/Ctere1/react-native-chat/stargazers">
-    <img src="https://img.shields.io/github/stars/Ctere1/react-native-chat?style=social" alt="GitHub Repo stars">
-  </a>
-  <a href="https://github.com/Ctere1/react-native-chat/network/members">
-    <img src="https://img.shields.io/github/forks/Ctere1/react-native-chat?style=social" alt="GitHub forks">
-  </a>
-  <a href="https://github.com/Ctere1/react-native-chat/watchers">
-    <img src="https://img.shields.io/github/watchers/Ctere1/react-native-chat?style=social" alt="GitHub watchers">
-  </a>
-  <br>
-</div>
 
 <p align="center">
   <a href="#ℹ️-introduction">Introduction</a> •
   <a href="#features">Features</a> •
   <a href="#installation-guide">Installation Guide</a> •
   <a href="#🏗️building-guide">Building Guide</a> •
-  <a href="#screenshots">Screenshots</a> •
+  <a href="#screenshots">Screenshots</a> 
 </p>
 
 ---
